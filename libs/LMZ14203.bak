@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LMZ14203
+#
+DEF LMZ14203 U 0 40 Y Y 1 L N
+F0 "U" 0 0 50 H I L CNN
+F1 "LMZ14203" 0 0 50 H I L CNN
+F2 "TO-PMOD-7" 0 0 50 H I L CNN
+F3 "3A SIMPLE SWITCHER? Power Module with 42V Maximum Input 7-TO-PMOD -40 to 125" 0 0 50 H I L CNN "Description"
+F4 "Texas Instruments" 0 0 50 H I L CNN "MF"
+F5 "Warning" 0 0 50 H I L CNN "Availability"
+F6 "LMZ14203HTZX/NOPB" 0 0 50 H I L CNN "MP"
+F7 "None" 0 0 50 H I L CNN "Package"
+F8 "12.31 USD" 0 0 50 H I L CNN "Price"
+DRAW
+P 2 0 0 20 -300 300 -300 -300 N
+P 2 0 0 20 -300 -300 300 -300 N
+P 2 0 0 20 300 -300 300 300 N
+P 2 0 0 20 300 300 -300 300 N
+T 0 -300 320 70 0 0 0 >Name Normal 0 L B
+T 0 -300 -395 70 0 0 0 >Value Normal 0 L B
+X VIN 1 -400 200 100 R 40 40 0 0 B 
+X RON 2 -400 100 100 R 40 40 0 0 B 
+X EN 3 -400 0 100 R 40 40 0 0 B 
+X GND 4 -400 -100 100 R 40 40 0 0 B 
+X SS 5 400 -200 100 L 40 40 0 0 B 
+X FB 6 400 0 100 L 40 40 0 0 B 
+X VOUT 7 400 200 100 L 40 40 0 0 B 
+X EP EP -400 -200 100 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library

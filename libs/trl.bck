@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BEAGLEBONEBLACK
+D BeagleBone Black P8
+$ENDCMP
+#
+$CMP BEAGLEBONEBLACK_P8
+D BeagleBone Black P8
+$ENDCMP
+#
+$CMP BEAGLEBONEBLACK_P9
+D BeagleBone Black_P9
+$ENDCMP
+#
+$CMP OPA1632
+D Differential Audio OPAMP, SOIC8
+$ENDCMP
+#
+#End Doc Library
