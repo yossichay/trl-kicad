@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:trl-rescue
 LIBS:beagleboneblack
 LIBS:bbb
 LIBS:power
@@ -232,7 +231,6 @@ F 10 "" H 0 0 50 0001 C CNN "MPN"
 F 11 "" H 0 0 50 0001 C CNN "SPR"
 F 12 "" H 0 0 50 0001 C CNN "SPN"
 F 13 "" H 0 0 50 0001 C CNN "SPURL"
-F 14 "~" H 0 0 50 0001 C CNN "Description"
 	1    4500 7150
 	1    0    0    -1  
 $EndComp
@@ -254,7 +252,6 @@ F 10 "" H 0 0 50 0001 C CNN "MPN"
 F 11 "" H 0 0 50 0001 C CNN "SPR"
 F 12 "" H 0 0 50 0001 C CNN "SPN"
 F 13 "" H 0 0 50 0001 C CNN "SPURL"
-F 14 "~" H 0 0 50 0001 C CNN "Description"
 	1    4950 7150
 	1    0    0    -1  
 $EndComp
@@ -276,7 +273,6 @@ F 10 "" H 0 0 50 0001 C CNN "MPN"
 F 11 "" H 0 0 50 0001 C CNN "SPR"
 F 12 "" H 0 0 50 0001 C CNN "SPN"
 F 13 "" H 0 0 50 0001 C CNN "SPURL"
-F 14 "~" H 0 0 50 0001 C CNN "Description"
 	1    5400 7150
 	1    0    0    -1  
 $EndComp
@@ -298,7 +294,6 @@ F 10 "" H 0 0 50 0001 C CNN "MPN"
 F 11 "" H 0 0 50 0001 C CNN "SPR"
 F 12 "" H 0 0 50 0001 C CNN "SPN"
 F 13 "" H 0 0 50 0001 C CNN "SPURL"
-F 14 "~" H 0 0 50 0001 C CNN "Description"
 	1    4500 7600
 	1    0    0    -1  
 $EndComp
@@ -320,7 +315,6 @@ F 10 "" H 0 0 50 0001 C CNN "MPN"
 F 11 "" H 0 0 50 0001 C CNN "SPR"
 F 12 "" H 0 0 50 0001 C CNN "SPN"
 F 13 "" H 0 0 50 0001 C CNN "SPURL"
-F 14 "~" H 0 0 50 0001 C CNN "Description"
 	1    4950 7600
 	1    0    0    -1  
 $EndComp
@@ -342,7 +336,6 @@ F 10 "" H 0 0 50 0001 C CNN "MPN"
 F 11 "" H 0 0 50 0001 C CNN "SPR"
 F 12 "" H 0 0 50 0001 C CNN "SPN"
 F 13 "" H 0 0 50 0001 C CNN "SPURL"
-F 14 "~" H 0 0 50 0001 C CNN "Description"
 	1    5850 7150
 	1    0    0    -1  
 $EndComp
@@ -364,7 +357,6 @@ F 10 "" H 0 0 50 0001 C CNN "MPN"
 F 11 "" H 0 0 50 0001 C CNN "SPR"
 F 12 "" H 0 0 50 0001 C CNN "SPN"
 F 13 "" H 0 0 50 0001 C CNN "SPURL"
-F 14 "~" H 0 0 50 0001 C CNN "Description"
 	1    5400 7600
 	1    0    0    -1  
 $EndComp
@@ -386,7 +378,6 @@ F 10 "" H 0 0 50 0001 C CNN "MPN"
 F 11 "" H 0 0 50 0001 C CNN "SPR"
 F 12 "" H 0 0 50 0001 C CNN "SPN"
 F 13 "" H 0 0 50 0001 C CNN "SPURL"
-F 14 "~" H 0 0 50 0001 C CNN "Description"
 	1    5850 7600
 	1    0    0    -1  
 $EndComp
